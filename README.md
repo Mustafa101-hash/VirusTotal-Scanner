@@ -9,7 +9,7 @@ Python3 VirusTotal_Domain_Scanner.py
 
 ### Installation
 
-* go and signup on VirusTotal to get your free API Key at [https://www.virustotal.com](https://example.com)
+* Go and signup on VirusTotal to get your free API Key at [https://www.virustotal.com](https://example.com)
 * Clone the repo
 ```sh
 git clone https://github.com//Mustafa101-hash/VirusTotal-Scanner
